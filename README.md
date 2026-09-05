@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Snehachoudhary26/github/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehachoudhary26/github/tree/master/0004-median-of-two-sorted-arrays) |
+| [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
