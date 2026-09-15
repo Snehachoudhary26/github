@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehachoudhary26/github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Snehachoudhary26/github/tree/master/0010-regular-expression-matching) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
@@ -56,15 +57,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Snehachoudhary26/github/tree/master/0010-regular-expression-matching) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
