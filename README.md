@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehachoudhary26/github/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Snehachoudhary26/github/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Snehachoudhary26/github/tree/master/0010-regular-expression-matching) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Snehachoudhary26/github/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
@@ -109,4 +111,9 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Snehachoudhary26/github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
