@@ -46,6 +46,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehachoudhary26/github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Snehachoudhary26/github/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/Snehachoudhary26/github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Snehachoudhary26/github/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Snehachoudhary26/github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -108,10 +109,12 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Snehachoudhary26/github/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Snehachoudhary26/github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Snehachoudhary26/github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Snehachoudhary26/github/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Snehachoudhary26/github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
