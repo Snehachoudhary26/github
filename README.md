@@ -16,6 +16,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Snehachoudhary26/github/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
