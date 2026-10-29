@@ -17,6 +17,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Snehachoudhary26/github/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Snehachoudhary26/github/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Snehachoudhary26/github/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Snehachoudhary26/github/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -69,6 +70,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Snehachoudhary26/github/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Snehachoudhary26/github/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,14 +163,17 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Snehachoudhary26/github/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -201,11 +207,13 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Snehachoudhary26/github/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Snehachoudhary26/github/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Snehachoudhary26/github/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
