@@ -19,6 +19,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Snehachoudhary26/github/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Snehachoudhary26/github/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snehachoudhary26/github/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Snehachoudhary26/github/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Snehachoudhary26/github/tree/master/3904-smallest-stable-index-ii) |
@@ -49,6 +50,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Snehachoudhary26/github/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Snehachoudhary26/github/tree/main/2409-count-days-spent-together/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snehachoudhary26/github/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Snehachoudhary26/github/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Snehachoudhary26/github/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
