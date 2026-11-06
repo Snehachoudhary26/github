@@ -14,6 +14,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehachoudhary26/github/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehachoudhary26/github/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehachoudhary26/github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Snehachoudhary26/github/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
@@ -84,6 +86,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehachoudhary26/github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Snehachoudhary26/github/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -215,6 +218,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Snehachoudhary26/github/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehachoudhary26/github/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehachoudhary26/github/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
