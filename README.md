@@ -12,6 +12,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehachoudhary26/github/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Snehachoudhary26/github/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Snehachoudhary26/github/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Snehachoudhary26/github/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/Snehachoudhary26/github/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehachoudhary26/github/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -145,6 +146,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Snehachoudhary26/github/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -247,6 +249,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Snehachoudhary26/github/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Snehachoudhary26/github/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehachoudhary26/github/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -261,4 +264,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Snehachoudhary26/github/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Snehachoudhary26/github/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
