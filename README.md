@@ -58,6 +58,7 @@
 | [2409-count-days-spent-together](https://github.com/Snehachoudhary26/github/tree/main/2409-count-days-spent-together/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snehachoudhary26/github/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehachoudhary26/github/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Snehachoudhary26/github/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Snehachoudhary26/github/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -131,6 +132,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Snehachoudhary26/github/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehachoudhary26/github/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
