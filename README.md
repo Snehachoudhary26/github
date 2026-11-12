@@ -20,6 +20,7 @@
 | [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehachoudhary26/github/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Snehachoudhary26/github/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Snehachoudhary26/github/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Snehachoudhary26/github/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
