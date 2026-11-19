@@ -18,6 +18,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Snehachoudhary26/github/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehachoudhary26/github/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Snehachoudhary26/github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Snehachoudhary26/github/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Snehachoudhary26/github/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -142,6 +143,7 @@
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Snehachoudhary26/github/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Snehachoudhary26/github/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Snehachoudhary26/github/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Snehachoudhary26/github/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Prefix Sum
@@ -243,6 +245,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Snehachoudhary26/github/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehachoudhary26/github/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Snehachoudhary26/github/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Snehachoudhary26/github/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Bit Manipulation
 |  |
