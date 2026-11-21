@@ -24,6 +24,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Snehachoudhary26/github/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Snehachoudhary26/github/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehachoudhary26/github/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Snehachoudhary26/github/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Snehachoudhary26/github/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
@@ -46,6 +47,7 @@
 | [2747-count-zero-request-servers](https://github.com/Snehachoudhary26/github/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Snehachoudhary26/github/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehachoudhary26/github/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Snehachoudhary26/github/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehachoudhary26/github/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Snehachoudhary26/github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehachoudhary26/github/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehachoudhary26/github/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Snehachoudhary26/github/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehachoudhary26/github/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -214,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Snehachoudhary26/github/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehachoudhary26/github/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -260,6 +264,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Snehachoudhary26/github/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehachoudhary26/github/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Snehachoudhary26/github/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehachoudhary26/github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
